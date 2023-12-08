@@ -19,6 +19,10 @@ public class CompteBancaire {
 		this.typeCompte = typeCompte;
 	}
 
+	public CompteBancaire() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getNumCompte() {
 		return numCompte;
 	}
