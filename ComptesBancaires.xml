@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ComptesBancaires>
+  <CompteBancaire>
+    <NumeroCompte>1</NumeroCompte>
+    <NomProprietaire>Trombetta</NomProprietaire>
+    <Solde>10500.5</Solde>
+    <DateCreation>2020-02-25</DateCreation>
+    <TypeCompte>Courant</TypeCompte>
+  </CompteBancaire>
+  <CompteBancaire>
+    <NumeroCompte>2</NumeroCompte>
+    <NomProprietaire>Joly</NomProprietaire>
+    <Solde>200.67</Solde>
+    <DateCreation>2020-01-14</DateCreation>
+    <TypeCompte>Courant</TypeCompte>
+  </CompteBancaire>
+  <CompteBancaire>
+    <NumeroCompte>3</NumeroCompte>
+    <NomProprietaire>Trombetta</NomProprietaire>
+    <Solde>150000.5</Solde>
+    <DateCreation>2015-06-12</DateCreation>
+    <TypeCompte>Epargne</TypeCompte>
+  </CompteBancaire>
+</ComptesBancaires>
